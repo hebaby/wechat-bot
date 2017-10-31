@@ -1,0 +1,80 @@
+
+`----------12:30----------`
+发送了一张图片,以保存至/media//5047634210265369788.jpg
+<?xml version="1.0"?>
+<msg>
+	<img aeskey="0ed5f6e9d58042dca45ee4ed23011e7c" encryver="1" cdnthumbaeskey="0ed5f6e9d58042dca45ee4ed23011e7c" cdnthumburl="3053020100044c304a02010002046f0fb8be02033d0af602041e84277d020459f400e00425617570696d675f383630313661623730373162303764615f313530393136333233323533330204010400020201000400" cdnthumblength="9195" cdnthumbheight="115" cdnthumbwidth="120" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3053020100044c304a02010002046f0fb8be02033d0af602041e84277d020459f400e00425617570696d675f383630313661623730373162303764615f313530393136333233323533330204010400020201000400" length="45365" md5="6bf9ae95ee3b81e0b779c03e5806fd99" />
+</msg>
+
+`----------12:31----------`
+发送了一张图片,以保存至/assets//5345120819027031351.jpg
+<?xml version="1.0"?>
+<msg>
+	<img aeskey="0ed5f6e9d58042dca45ee4ed23011e7c" encryver="0" cdnthumbaeskey="0ed5f6e9d58042dca45ee4ed23011e7c" cdnthumburl="3053020100044c304a02010002046f0fb8be02033d0af602041e84277d020459f400e00425617570696d675f383630313661623730373162303764615f313530393136333233323533330204010400020201000400" cdnthumblength="9195" cdnthumbheight="115" cdnthumbwidth="120" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3053020100044c304a02010002046f0fb8be02033d0af602041e84277d020459f400e00425617570696d675f383630313661623730373162303764615f313530393136333233323533330204010400020201000400" length="45365" md5="6bf9ae95ee3b81e0b779c03e5806fd99" />
+</msg>
+
+`----------14:45----------`
+【发送了一段语音,已保存至/media//8538612015168555659.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2959" length="5084" bufid="436664467549127220" clientmsgid="413133366664353666323466313061000214451028178c7d5096ad5103" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------14:45----------`
+【发送了一段视频,已保存至/media//4572834844201265577.mp4】
+<?xml version="1.0"?>
+<msg>
+	<videomsg aeskey="0eadc2f5e1ab4167adb54ef2f84025af" cdnthumbaeskey="0eadc2f5e1ab4167adb54ef2f84025af" cdnvideourl="306a0201000463306102010002041be23f3402032dc8b602041bab277d020459f42781043c617570766964656f5f323737613335656666363331636264325f313530393137333132305f31343435313032383130313766393630343030343530300204010400040201000400" cdnthumburl="306a0201000463306102010002041be23f3402032dc8b602041bab277d020459f42781043c617570766964656f5f323737613335656666363331636264325f313530393137333132305f31343435313032383130313766393630343030343530300204010400040201000400" length="614599" playlength="4" cdnthumblength="6184" cdnthumbwidth="540" cdnthumbheight="1012" fromusername="wxid_xdlpqp3gl8ea22" md5="d378e2533f66153bac40353713b38b6e" newmd5="ae7e160df961dbb9d4368d00cfd8f643" isad="0" />
+</msg>
+
+`----------15:01----------`
+【发送了一段语音,已保存至/media//7958139331094960645.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1785" length="3166" bufid="290174201210208826" clientmsgid="413133366664353666323466313061001915011028178c7d509522a103" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:01----------`
+【发送了一段视频,已保存至/media//8160786088970609297.mp4】
+<?xml version="1.0"?>
+<msg>
+	<videomsg aeskey="142539be900c4b1e97647e750b22316b" cdnthumbaeskey="142539be900c4b1e97647e750b22316b" cdnvideourl="306b0201000464306202010002041be23f3402032dc8b602041bab277d020459f42b4a043d617570766964656f5f323737613335656666363331636264325f313530393137343039315f3135303132343238313031376639363034303034383830310204010400040201000400" cdnthumburl="306b0201000464306202010002041be23f3402032dc8b602041bab277d020459f42b4a043d617570766964656f5f323737613335656666363331636264325f313530393137343039315f3135303132343238313031376639363034303034383830310204010400040201000400" length="344232" playlength="2" cdnthumblength="31099" cdnthumbwidth="540" cdnthumbheight="1012" fromusername="wxid_xdlpqp3gl8ea22" md5="957803fed4e70e6cbc64f5e78b38a072" newmd5="da1e1739ecc773ca8dd6eafad8be3ca9" isad="0" />
+</msg>
+
+`----------15:02----------`
+【发送了一段语音,已保存至/media//4760733375094336153.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3164" length="5572" bufid="436018775047668275" clientmsgid="413133366664353666323466313061004315021028178c7d5099a84104" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:05----------`
+【发送了一段语音,已保存至/media//3295248869905217981.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2507" length="4481" bufid="364317199449588252" clientmsgid="413133366664353666323466313061004815051028178c7d5096d2e100" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:07----------`
+【发送了一段语音,已保存至/media//8889354049163008320.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1814" length="3275" bufid="291384664723423753" clientmsgid="413133366664353666323466313061001715071028178c7d509c974105" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:10----------`
+【发送了一段语音,已保存至/media//3547318186350419414.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2620" length="4683" bufid="363327686218875450" clientmsgid="413133366664353666323466313061004115101028178c7d509e4ba104" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:11----------`
+【发送了一段语音,已保存至/media//4848369857274221625.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1494" length="2338" bufid="216219580257141261" clientmsgid="413133366664353666323466313061002715111028178c7d5099b8d104" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:11----------`
+【发送了一段语音,已保存至/media//1444963831638320464.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2183" length="3394" bufid="290180875586372138" clientmsgid="413133366664353666323466313061004215111028178c7d509d400100" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:12----------`
+【发送了一段语音,已保存至/media//5051320052048061723.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1162" length="1922" bufid="146940349028172292" clientmsgid="413133366664353666323466313061004115121028178c7d509bba0105" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:13----------`
+【发送了一段语音,已保存至/media//442816949511621818.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1379" length="2147" bufid="218010719059706405" clientmsgid="413133366664353666323466313061003715131028178c7d5099597106" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:13----------`
+【发送了一段语音,已保存至/media//3237147432013536262.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3060" length="5067" bufid="361821436892938791" clientmsgid="413133366664353666323466313061005315131028178c7d509d598104" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:14----------`
+【发送了一段语音,已保存至/media//368812437615193094.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2271" length="3732" bufid="290343375692104209" clientmsgid="413133366664353666323466313061001615141028178c7d5092da7106" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:14----------`
+蚊子
+`----------15:15----------`
+【发送了一段语音,已保存至/media//2412861042540002857.mp3】
+<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2069" length="3500" bufid="292712599910089245" clientmsgid="413133366664353666323466313061003015151028178c7d5095104102" fromusername="wxid_xdlpqp3gl8ea22" /></msg>
+`----------15:16----------`
+蚊子
+`----------17:07----------`
+大家好，我是小明。
+`----------17:08----------`
+专门针对某些人喜欢撤回的坏习惯[微笑]
+`----------17:26----------`
+我在学习。
+`----------17:31----------`
+在调戏收费了！
